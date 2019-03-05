@@ -6,11 +6,6 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("psz");
 		System.out.println("psz2");
-		//hh hh
-		//vm vm
-		//tt
-		//pp
-		//psz
 	}
 
 }
