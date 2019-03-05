@@ -7,6 +7,7 @@ public class main {
 		System.out.println("psz");
 		System.out.println("psz2");
 		System.out.println("psz3");
+		System.out.println("psz4");
 	}
 
 }
