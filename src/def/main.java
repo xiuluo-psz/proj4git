@@ -10,6 +10,7 @@ public class main {
 		//vm vm
 		//tt
 		//pp
+		//psz
 	}
 
 }
