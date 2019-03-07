@@ -7,7 +7,7 @@ public class main {
 		System.out.println("psz");
 		System.out.println("psz2");
 		//master
-		//env env
+		//env env env
 	}
 
 }
